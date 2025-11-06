@@ -1,0 +1,5 @@
+{
+  "name": "AssignCheck",
+  "description": "An AI-powered tool to check assignments against grading criteria. Upload your assignment and criteria to receive a detailed analysis, grade, suggestions for improvement, and completion percentage.",
+  "requestFramePermissions": []
+}
